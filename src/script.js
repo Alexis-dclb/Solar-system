@@ -34,12 +34,12 @@ const venusTexture = textureLoader.load('/textures/solar-system/venus.jpg')
 const earthTexture = textureLoader.load('/textures/solar-system/earth.jpg')
 
 const star = cubeTextureLoader.load([
-	'textures/solar-system/env/px.png',
-	'textures/solar-system/env/nx.png',
-	'textures/solar-system/env/py.png',
-	'textures/solar-system/env/ny.png',
-	'textures/solar-system/env/pz.png',
-	'textures/solar-system/env/nz.png',
+	'textures/solar-system/env/px.jpg',
+	'textures/solar-system/env/nx.jpg',
+	'textures/solar-system/env/py.jpg',
+	'textures/solar-system/env/ny.jpg',
+	'textures/solar-system/env/pz.jpg',
+	'textures/solar-system/env/nz.jpg',
 ])
 /** 
  * scene 
